@@ -1,5 +1,5 @@
 # sobre mim
-- 👋 Hi, I’m @willzinsdelaxx
+- 👋 Hi, I’m @willzin
 - 👀 I’m interested in progredir na vida
 - 🌱 I’m currently learning  pensamento computacional
 - 💞️ I’m looking to collaborate nos estudos
